@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+install/
+log/
+
+# ROS-specific
+.colcon/
+*.pyc
+__pycache__/
+
+# IDE/editor stuff
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
